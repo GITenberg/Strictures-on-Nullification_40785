@@ -1,0 +1,29 @@
+_repo: Strictures-on-Nullification_40785
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40785-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Everett, Alexander Hill
+    aliases:
+    - Everett, A. H. (Alexander Hill)
+    - Everett, Alex H. (Alexander Hill)
+    birthdate: 1790
+    deathdate: 1847
+    gutenberg_agent_id: '40821'
+    url: http://www.gutenberg.org/2009/agents/40821
+description: ''
+gutenberg_issued: '2012-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40785'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Nullification (States'' rights)'
+title: Strictures on Nullification
+url: http://www.gutenberg.org/ebooks/40785
